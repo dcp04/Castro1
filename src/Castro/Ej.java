@@ -8,6 +8,6 @@ public class Ej {
         System.out.print(i);
         i+=5;
       } while(i <= 100);
-      System.out.print("Este mensaje es extra para continuar la ");
+      System.out.print("Este mensaje es extra para continuar la practica");
     }
 }
